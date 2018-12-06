@@ -12,6 +12,15 @@ print("Hi, Welcome to Python World")
 
 print("Today is our Day-1 Demo")
 
+github_username = 'keshavkummari'
+linkedin_username = 'keshavkummari'
+gmail_id = 'keshav.kummari@gmail.com'
+
+print(github_username)
+print(linkedin_username)
+print(gmail_id)
+
+
 
 
 
