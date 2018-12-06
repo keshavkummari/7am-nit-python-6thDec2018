@@ -1,0 +1,65 @@
+#-------------------------------------------#
+1. Basic and Advanced Python Programming
+
+2. SDLC : Agile
+
+3. Cloud : AWS & AZURE
+
+4. Various API i.e. SMTP, DB, CGI etc...
+
+5. WebFramework : Django
+
+6. Git
+#-------------------------------------------#
+
+1. Introduction to Python
+2. Various Tools are used part of Development
+3. Other key points
+
+#-------------------------------------------#
+
+60-Minutes X 30-Days
+	1. Theory
+	2. Practical 
+	3. Quiz/Assignments
+	4. Recorded Session
+	5. Gitflow 
+#-------------------------------------------#
+
+#-------------------------------#
+System Requirement:
+#-------------------------------#
+1. MacOS/Windows
+	1. Python 3.6.0
+	2. IDE : Pycharm, Anaconda(Spyder)
+	3. Text Editors : Notepad++, ATOM, Sublime
+	4. Git Flow Commands : gitbash
+	5. SSH Tools : Gitbash, Cmder & WinScp
+	6. Browsers : Cloud :
+					1. AWS
+					2. AZURE
+	7. Jira/Trello (Agile)
+#-------------------------------#
+
+Windows : 
+	1. cmd
+	2. powershell
+	3. gitbash : 1. gitflow commands
+				 2. Do SSH to Remote Linux/Unix Servers
+				 3. Execute Linux/Unix Commands on Windows
+	4. cmder   : 1. gitflow commands
+				 2. Do SSH to Remote Linux/Unix Servers
+				 3. Execute Linux/Unix Commands on Windows
+
+MacOS :
+	1. terminal == cmd/powershell
+	2. gitbash : 1. gitflow commands
+				 2. Do SSH to Remote Linux/Unix Servers
+				 3. Execute Linux/Unix Commands on Windows
+\\
+
+#! = Shebang
+
+/usr/bin/python = Path of the python installed on OS
+
+
