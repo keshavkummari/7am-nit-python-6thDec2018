@@ -3,8 +3,8 @@
 '''
 Comments :
 
-1. Single Comments    : '', "", ''' ''', """ """ & #
-2. Multiline Comments : ''' ''', & """ """
+1. Single Comments    : '', "", ''' ''', """ """ and #
+2. Multiline Comments : ''' ''', and """ """
 '''
 
 # Creating Variables in Python
