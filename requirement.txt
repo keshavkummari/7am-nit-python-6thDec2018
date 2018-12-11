@@ -1,0 +1,7 @@
+1. Python-3.6.0
+
+2. pip
+
+3. gitbash 
+
+4. cmder
