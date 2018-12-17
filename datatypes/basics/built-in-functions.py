@@ -16,3 +16,7 @@ print(FIRSTNAME[-1])
 print(FIRSTNAME[1:5])
 print(FIRSTNAME[2:4])
 print(FIRSTNAME[1::2])
+print("FIRSTNAME: %s middlename:%s LastName:%s " %(FIRSTNAME, middlename, LastName))
+print("FIRSTNAME: {} middlename:{} LastName:{} " .format(FIRSTNAME, middlename, LastName))
+
+print(R'E:\\BDHS_ebook')
