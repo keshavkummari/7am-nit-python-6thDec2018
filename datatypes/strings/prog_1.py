@@ -26,11 +26,6 @@ lang = """Python"""
 print(firstname,middlename,lastname,lang)
 
 print(type(firstname))
-
 print(type(middlename))
-
 print(type(lastname))
-
-print(type(lang))
-
-print(id(firstname))
+print(id(lastname))
