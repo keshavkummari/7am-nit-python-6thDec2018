@@ -1,0 +1,98 @@
+
+Python Developer :
+
+#-------------------------------------------------------------------#
+Step-1 : Code Repository & Version Control(git ---> github)
+#-------------------------------------------------------------------#
+
+https://github.com
+
+Username : 
+Password : 
+Email Id :
+Mobile   :
+
+Online Line Code Repository : 7am-nit-python-6thDec2018
+
+#-------------------------------------------------------------------#
+Step-2 : Download the Code Repository on Local Machine i.e. Windows/MacOS
+#-------------------------------------------------------------------#
+
+1. git commands :
+
+2. git software : gitbash
+	
+3. 3rd party SSH tools : cmder
+
+Note : SSH, Gitflow Commands & Execute Linux/Unix Commands on Windows/MacOS
+
+#-------------------------------------------------------------------#
+Step-3 : Navigate to your Local Repo i.e. 7am-nit-python-6thDec2018 & execute gitflow commands
+#-------------------------------------------------------------------#
+
+And login to Github i.e. Online Line Code Repository : 7am-nit-python-6thDec2018
+
+#-------------------------------------------------------------------#
+Step-4 : Download, Install & Configure of various Python related tools
+#-------------------------------------------------------------------#
+
+Windows/MacOS:
+
+My Workstation : MacOS
+
+Cloud : AWS 
+
+;oxR4cdedrlHVbOs!pwvbUo7xADZW$D9
+;o            O       o
+
+Launch a Windows Operating 
+
+Connect Windows Operating system from MacOS
+
+Download, Install & Configure of various Python related tools
+
+#-------------------------------------------------------------------#
+Step-5 : Download, Install & Configure of various Python related tools
+#-------------------------------------------------------------------#
+
+#-------------------------------#
+System Requirement:
+#-------------------------------#
+1. MacOS/Windows
+	1. Python 3.6.0  https://www.python.org/ftp/python/3.6.0/python-3.6.0-amd64-webinstall.exe
+
+	2. IDE : Pycharm, Anaconda(Spyder) : 
+
+	3. Text Editors : Notepad++, ATOM, Sublime
+	
+	4. Git Flow Commands : gitbash
+	
+	5. SSH Tools : Gitbash, Cmder & WinScp
+	
+	6. Browsers : Cloud :
+					1. AWS
+					2. AZURE
+	
+	7. Jira/Trello (Agile)
+#-------------------------------#
+
+Windows : 
+	1. cmd
+	2. powershell
+	3. gitbash : 1. gitflow commands
+				 2. Do SSH to Remote Linux/Unix Servers
+				 3. Execute Linux/Unix Commands on Windows
+	4. cmder   : 1. gitflow commands
+				 2. Do SSH to Remote Linux/Unix Servers
+				 3. Execute Linux/Unix Commands on Windows
+
+MacOS :
+	1. terminal == cmd/powershell
+	2. gitbash : 1. gitflow commands
+				 2. Do SSH to Remote Linux/Unix Servers
+				 3. Execute Linux/Unix Commands on Windows
+
+
+
+
+
