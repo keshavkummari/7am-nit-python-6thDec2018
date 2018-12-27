@@ -1,0 +1,11 @@
+#creating variables
+FirstName = 'van'
+LastName = 'Rossum'
+
+#Accessing variables in Python
+print(FirstName)
+print("calling a variable using Firstname: ", FirstName)
+print(FirstName, "We have called a variable Firstname")
+
+#Strings
+

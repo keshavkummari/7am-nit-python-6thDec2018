@@ -1,0 +1,6 @@
+firstname = 'Guido'
+middlename = "van"
+lastname = ' ' ' Rossum ' ' '
+print(firstname, middlename, lastname)
+print(type(firstname))
+print(id(firstname))
