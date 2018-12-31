@@ -1,5 +1,15 @@
 
 '''
+STRINGS SPECIAL OPERATORS:
+
+1. + concatineation
+2. * Repetition
+3. [] Slice
+4. [:] : range slice
+5. [::] zero based indexing
+6. % format
+7. .format()
+
 
 STRINGS
 
@@ -12,6 +22,29 @@ STRINGS
 7.index
 
 '''
+
+#4.Range slice
+number='1234'
+name='abcdefgh'
+print("The range slice:", number[0:])
+print("The range slice example:", name[2:-1])
+
+#5.zero indexing - prints first index and then eveny next based on the value.
+           #01212121212121212121212
+numvalue = '10203040506070809010203'
+print("The zero based indexing:",numvalue[0::2]) #prints 0th index and every 2nd index (starts with 0, then count as 1,2,etc)
+
+#6.Format
+
+print("to print the values using format operator, Number:%s name:%s numvalue:%s " %(number,name,numvalue))
+
+#7. .foramt operator - can be used with index, one string taken as 0 (one index)
+
+print("To execute the .Format operator, number: {0}".format(number))
+
+# raw sring : r/R r'expression' or R'expression' - to print the path with special characters
+print(r'c:\users\\abc\\')
+print(R'c:\\users\\xyz\\')
 
 
 # capitalize

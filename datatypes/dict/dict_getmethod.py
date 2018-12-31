@@ -8,4 +8,4 @@ print ("Value : %s" % studnet.get('Age'))
 
 print ("Value : %s" % studnet.get('Education','Java'))
 
-print ("Value : %s" % studnet.get('ProgrammingLanguage','Java'))
+print ("Value : %s" % studnet.get('ProgrammingLanguage','Java'))#this is treated as key-value pair if value doesnot exist

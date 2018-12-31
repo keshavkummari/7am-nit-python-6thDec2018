@@ -8,7 +8,7 @@ print(tuple(enumerate(tup2)),type(tup2),id(tup2),len(tup2))
 
 print(tup1[:5])  # startindex:endindex (endindex-1; 5-1=4)
 
-del tup1
+#del tup1
 
 # del tup1[0] # TypeError: 'tuple' object doesn't support item deletion
 
