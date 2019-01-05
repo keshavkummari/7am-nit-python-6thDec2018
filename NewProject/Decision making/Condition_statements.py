@@ -137,3 +137,19 @@ if expression1:
 else:
    statement(s)
 '''
+
+
+#xamples
+
+colors_1 = ['red','green','olive','yellow']
+
+f1 = [1.0,2.0,4.0,3.0]
+
+for var,var1 in enumerate(colors_1):
+    a1 = f1[var]
+    print("{} {}".format(a1 * 100, var1))
+
+'''
+var iterates with a1 and var1 iterates with enumerate(color1).
+
+'''

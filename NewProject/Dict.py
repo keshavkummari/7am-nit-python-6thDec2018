@@ -7,3 +7,6 @@ lang= {"java":".java", 'perl':'.pl'}
 print(lang.keys())
 print(lang.values())
 print(lang.items())
+
+for var in lang:
+    print(var)
