@@ -1,0 +1,29 @@
+
+
+Module : OS.walk 
+
+
+
+
+It generates the file names in a directory tree by walking the tree either top-down or bottom-up
+
+For each directory in the tree rooted at directory top(including top itself), 
+
+it yields a 3-tuple(dirpath, dirnames, filenames)
+
+1. dirpath : Is a String, the path to the directory
+
+2. dirnames : Is a list of the names of the subdirectories in dirpath(excluding '.' and '..').
+
+3. filenames : It is a list of the names of the non-directory files in dirpath
+
+Module: fnmatch :
+
+The fnmatch module compares file names against glob-style patterns such as used
+by Unix/Linux shells.
+
+These are not the same as the more sophisticated regular expression rules. 
+
+Its purely a string matching operation.
+
+
