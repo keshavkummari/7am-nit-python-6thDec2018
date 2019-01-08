@@ -8,7 +8,7 @@ print(str2.count('a'))
 print(str2.count('e'))
 
 #3. Write a Python program to get the last part of a string before a specified character.
-special_char = 'R'
+special_char = 'C'
 print(str2[str2.index(special_char):])
 
 #4. Write a Python program to check whether a string starts with specified characters.
