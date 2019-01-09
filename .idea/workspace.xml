@@ -5,12 +5,7 @@
     <list default="true" id="8b853e1f-cf9e-49cb-865c-2133278c3914" name="Default" comment="" />
 =======
     <list default="true" id="8b853e1f-cf9e-49cb-865c-2133278c3914" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/File_Dir_mgmt/read_readline_readlines_tell_seek.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exceptionsHandling/Excetions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exceptionsHandling/built-inexception.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exceptionsHandling/exceptions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/exceptionsHandling/sys_exceptions.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DatabaseAPI/dbNotes.py" afterPath="$PROJECT_DIR$/DatabaseAPI/dbNotes.py" />
     </list>
 >>>>>>> a16d8c83757b6a0b02e17f539f4e6e69ea6ed365
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +17,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="methods.py" pinned="false" current-in-tab="false">
@@ -45,15 +41,20 @@
       <file leaf-file-name="exceptions.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exceptionsHandling/exceptions.py">
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+      <file leaf-file-name="SMTP.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mail_SMTP/SMTP.py">
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+            <state relative-caret-position="397">
+              <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding />
 >>>>>>> a16d8c83757b6a0b02e17f539f4e6e69ea6ed365
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       <file leaf-file-name="dict_getmethod.py" pinned="false" current-in-tab="false">
@@ -68,29 +69,23 @@
       <file leaf-file-name="sys_exceptions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exceptionsHandling/sys_exceptions.py">
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+      <file leaf-file-name="dbNotes.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DatabaseAPI/dbNotes.py">
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            <state relative-caret-position="316">
+              <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="built-inexception.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exceptionsHandling/built-inexception.py">
+      <file leaf-file-name="gmail_mail.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mail_SMTP/gmail_mail.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Excetions.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exceptionsHandling/Excetions.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
+            <state relative-caret-position="267">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding />
 >>>>>>> a16d8c83757b6a0b02e17f539f4e6e69ea6ed365
             </state>
@@ -126,11 +121,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/datatypes/dict/Dict_Creating_And_Accessing.py" />
-        <option value="$PROJECT_DIR$/datatypes/dict/dict_getmethod.py" />
-        <option value="$PROJECT_DIR$/datatypes/dict/dict_keys-values.py" />
-        <option value="$PROJECT_DIR$/datatypes/dict/Fromkeys_Update_Setdefault.py" />
-        <option value="$PROJECT_DIR$/datatypes/dict/methods.py" />
         <option value="$PROJECT_DIR$/datatypes/dict/clear_copy_dict.py" />
         <option value="$PROJECT_DIR$/datatypes/dict/delete_clear.py" />
         <option value="$PROJECT_DIR$/operators/Operators_In_Python.py" />
@@ -177,6 +167,11 @@
         <option value="$PROJECT_DIR$/exceptionsHandling/sys_exceptions.py" />
         <option value="$PROJECT_DIR$/exceptionsHandling/Excetions.py" />
         <option value="$PROJECT_DIR$/exceptionsHandling/built-inexception.py" />
+        <option value="$PROJECT_DIR$/DatabaseAPI/Datases_Notes.py" />
+        <option value="$PROJECT_DIR$/DatabaseAPI/Notes" />
+        <option value="$PROJECT_DIR$/Mail_SMTP/SMTP.py" />
+        <option value="$PROJECT_DIR$/Mail_SMTP/gmail_mail.py" />
+        <option value="$PROJECT_DIR$/DatabaseAPI/dbNotes.py" />
       </list>
     </option>
   </component>
@@ -192,7 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
 <<<<<<< HEAD
@@ -251,6 +245,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Mail_SMTP" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7am-nit-python-6thDec2018" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7am-nit-python-6thDec2018" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="exceptionsHandling" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -269,6 +277,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7am-nit-python-6thDec2018" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="7am-nit-python-6thDec2018" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DatabaseAPI" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
 <<<<<<< HEAD
@@ -277,6 +299,7 @@
 =======
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -296,6 +319,7 @@
   </component>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.methods">
     <configuration name="LogicalOperators" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="7am-nit-python-6thDec2018" />
@@ -307,6 +331,10 @@
   <component name="RunManager" selected="Python.sys_exceptions">
     <configuration default="false" name="read_readline_readlines_tell_seek" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+  <component name="RunManager" selected="Python.Datases_Notes">
+    <configuration default="false" name="writeAfileWith_withstatement" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -322,16 +350,21 @@
 =======
       <module name="7am-nit-python-6thDec2018" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/notes.py" />
 >>>>>>> a16d8c83757b6a0b02e17f539f4e6e69ea6ed365
 =======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_Dir_mgmt/read_readline_readlines_tell_seek.py" />
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_Dir_mgmt/writeAfileWith_withstatement.py" />
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <configuration name="bitwiseExamples" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -342,13 +375,16 @@
 =======
     <configuration default="false" name="writeAfileWith_withstatement" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+    <configuration default="false" name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_Dir_mgmt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exceptionsHandling" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -357,16 +393,21 @@
 =======
       <module name="7am-nit-python-6thDec2018" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/Creating_And_Accessing_Functions.py" />
 >>>>>>> a16d8c83757b6a0b02e17f539f4e6e69ea6ed365
 =======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_Dir_mgmt/writeAfileWith_withstatement.py" />
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptionsHandling/exceptions.py" />
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <configuration name="identity" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -377,6 +418,9 @@
 =======
     <configuration default="false" name="exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+    <configuration default="false" name="sys_exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -392,16 +436,21 @@
 =======
       <module name="7am-nit-python-6thDec2018" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/FunctionArguments.py" />
 >>>>>>> a16d8c83757b6a0b02e17f539f4e6e69ea6ed365
 =======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptionsHandling/exceptions.py" />
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptionsHandling/sys_exceptions.py" />
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <configuration name="membership" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -412,6 +461,9 @@
 =======
     <configuration default="false" name="sys_exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+    <configuration default="false" name="built-inexception" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -427,16 +479,21 @@
 =======
       <module name="7am-nit-python-6thDec2018" />
 <<<<<<< HEAD
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/lambda_anonymous.py" />
 >>>>>>> a16d8c83757b6a0b02e17f539f4e6e69ea6ed365
 =======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptionsHandling/sys_exceptions.py" />
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptionsHandling/built-inexception.py" />
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <configuration name="methods" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -447,6 +504,9 @@
 =======
     <configuration default="false" name="built-inexception" type="PythonConfigurationType" factoryName="Python" temporary="true">
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+    <configuration default="false" name="Datases_Notes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -461,17 +521,21 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datatypes/dict/methods.py" />
 =======
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exceptionsHandling" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DatabaseAPI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="7am-nit-python-6thDec2018" />
+<<<<<<< HEAD
 <<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions/ScopeOfVariables.py" />
 >>>>>>> a16d8c83757b6a0b02e17f539f4e6e69ea6ed365
 =======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exceptionsHandling/built-inexception.py" />
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DatabaseAPI/Datases_Notes.py" />
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -518,14 +582,15 @@
         <item itemvalue="Python.LogicalOperators" />
 =======
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.read_readline_readlines_tell_seek" />
-      <item index="1" class="java.lang.String" itemvalue="Python.writeAfileWith_withstatement" />
-      <item index="2" class="java.lang.String" itemvalue="Python.exceptions" />
-      <item index="3" class="java.lang.String" itemvalue="Python.sys_exceptions" />
-      <item index="4" class="java.lang.String" itemvalue="Python.built-inexception" />
+      <item index="0" class="java.lang.String" itemvalue="Python.writeAfileWith_withstatement" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exceptions" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sys_exceptions" />
+      <item index="3" class="java.lang.String" itemvalue="Python.built-inexception" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Datases_Notes" />
     </list>
     <recent_temporary>
       <list size="5">
+<<<<<<< HEAD
 <<<<<<< HEAD
         <item index="0" class="java.lang.String" itemvalue="Python.ScopeOfVariables" />
         <item index="1" class="java.lang.String" itemvalue="Python.lambda_anonymous" />
@@ -540,6 +605,13 @@
         <item index="3" class="java.lang.String" itemvalue="Python.writeAfileWith_withstatement" />
         <item index="4" class="java.lang.String" itemvalue="Python.read_readline_readlines_tell_seek" />
 >>>>>>> bf4264949c32dfc794423cc1c3fd24653cf1dc7f
+=======
+        <item index="0" class="java.lang.String" itemvalue="Python.Datases_Notes" />
+        <item index="1" class="java.lang.String" itemvalue="Python.sys_exceptions" />
+        <item index="2" class="java.lang.String" itemvalue="Python.built-inexception" />
+        <item index="3" class="java.lang.String" itemvalue="Python.exceptions" />
+        <item index="4" class="java.lang.String" itemvalue="Python.writeAfileWith_withstatement" />
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
       </list>
     </recent_temporary>
   </component>
@@ -582,14 +654,14 @@
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16235864" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16478191" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33561644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33561644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.41369864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33424658" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40136987" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -618,6 +690,7 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/datatypes/list/List_Notes.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -833,6 +906,8 @@
         </state>
       </provider>
     </entry>
+=======
+>>>>>>> 9833766da9b42999f65bb037d938b8252c06e013
     <entry file="file://$PROJECT_DIR$/operators/Comparison_or_Relational.py">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< HEAD
@@ -1259,7 +1334,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
           <caret line="30" column="19" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1267,7 +1341,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="72" column="0" lean-forward="false" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1275,7 +1348,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1283,9 +1355,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="14" lean-forward="false" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-          <folding>
-            <element signature="e#19#33#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1293,7 +1362,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1301,6 +1369,21 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptionsHandling/exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exceptionsHandling/sys_exceptions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1308,31 +1391,55 @@
     <entry file="file://$PROJECT_DIR$/exceptionsHandling/built-inexception.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
-          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/exceptionsHandling/exceptions.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="17" column="12" lean-forward="true" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <caret line="12" column="12" lean-forward="false" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/exceptionsHandling/Excetions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
+        <state relative-caret-position="316">
           <caret line="34" column="3" lean-forward="false" selection-start-line="34" selection-start-column="3" selection-end-line="34" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exceptionsHandling/sys_exceptions.py">
+    <entry file="file://$PROJECT_DIR$/DatabaseAPI/Datases_Notes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        <state relative-caret-position="427">
+          <caret line="52" column="0" lean-forward="true" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseAPI/Notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mail_SMTP/gmail_mail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mail_SMTP/SMTP.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseAPI/dbNotes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
           <folding />
 >>>>>>> a16d8c83757b6a0b02e17f539f4e6e69ea6ed365
         </state>
