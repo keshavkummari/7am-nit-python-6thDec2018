@@ -1,6 +1,6 @@
 SDLC : Agile/Scrum Rituals :
 
-	1. Sprint Planning 
+	1. Sprint Planning
 	2. Daily Standup / Daily Scrum
 	3. Refinement
 	4. Retro
@@ -33,7 +33,7 @@ Sprint-3 : 5
 
 Sprint-4 : 5
 
-Sprint-5 : 5 
+Sprint-5 : 5
 
 Sprint-6 : 5
 
@@ -47,7 +47,8 @@ Application : Using Python & Django
 
 DevOps Engineers :
 
-Full Stack Engineers : HTML, CSS, JS, SQL, Linux/Unix, Python Programming, Cloud(AWS, Azure), SDLC(Agile), CI/CD Pipeline.
+Full Stack Engineers : HTML, CSS, JS, SQL, Linux/Unix, Python Programming,
+                       Cloud(AWS, Azure), SDLC(Agile), CI/CD Pipeline.
 
 
 1. Planning
@@ -57,11 +58,3 @@ Full Stack Engineers : HTML, CSS, JS, SQL, Linux/Unix, Python Programming, Cloud
 5. Deploying
 
 5 - DevOps @ 5 Diff Locations :
-
-
-
-
-
-
-
-
